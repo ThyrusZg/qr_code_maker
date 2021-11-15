@@ -5,6 +5,7 @@ Purpose of this application is to create simple QR codes. When searching for onl
 simple QR code generators, usually those websites require personal information, surveys or they are filled with ads.
 
 Created by: Stjepan Maric
+
 contact: stjepan.maric1994@gmail.com
 
 How to use:
